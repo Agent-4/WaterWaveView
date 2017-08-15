@@ -4,7 +4,7 @@
 
 ##### 效果图：
 
-![preview.gif](https://github.com/Agent-4/blob/master/preview.gif)
+![preview.gif](https://github.com/Agent-4/WaterWaveView/blob/master/preview.gif)
 
 ##### 用法：
 
